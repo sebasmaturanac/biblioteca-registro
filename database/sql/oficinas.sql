@@ -1,0 +1,30 @@
+/* Data for the 'oficinas' table  (Records 1 - 26) */
+
+INSERT INTO `oficinas` (`user_id`, `nombre`) VALUES
+
+  (1, 'M.G.E.'),
+  (1, 'CONTROL DE PERSONAL'),
+  (1, 'PERSONAL'),
+  (1, 'PRESUPUESTO'),
+  (1, 'JURIDICO'),
+  (1, 'DESPACHO'),
+  (1, 'D.G.P.'),
+  (1, 'RRHH PCIA'),
+  (1, 'FISCALIA'),
+  (1, 'DESPACHO HACIENDA'),
+  (1, 'C.G.P. REVISORA'),
+  (1, 'C.G.P. ASES. CONT.'),
+  (1, 'T.G.P.'),
+  (1, 'M.G.E. HACIENDA'),
+  (1, 'GOBERNACION'),
+  (1, 'MINISTRO'),
+  (1, 'TRIBUNAL OP'),
+  (1, 'TRIBUNAL RENDICION'),
+  (1, 'COMUNICACIONES'),
+  (1, 'SGA'),
+  (1, 'SSGA'),
+  (1, 'SGE'),
+  (1, 'IMPOSITIVA'),
+  (1, 'CIIDEPT'),
+  (1, 'ARCHIVO'),
+  (1, 'INFRAESTRUCTURA');
